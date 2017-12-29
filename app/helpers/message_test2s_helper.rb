@@ -1,0 +1,2 @@
+module MessageTest2sHelper
+end
